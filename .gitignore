@@ -1,0 +1,7 @@
+# Python-specific ignores
+__pycache__/
+*.pyc
+*.pyo
+
+# training logg files
+wandb/*
